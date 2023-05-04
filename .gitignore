@@ -1,4 +1,5 @@
-/target
+
 *.lnk
 *.exe
 *.pdb
+/*/*/target
