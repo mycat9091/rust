@@ -1,2 +1,4 @@
 /target
 *.lnk
+*.exe
+*.pdb
